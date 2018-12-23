@@ -1,6 +1,6 @@
 # High_School
 
-This repository contains high school academic projects and hobby creations.
+This repository contains high school academic projects.
 
 High School Attended: Hunter College
 
